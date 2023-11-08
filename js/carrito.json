@@ -1,0 +1,629 @@
+[   
+
+
+    {
+        "id":"casco-hawn",
+        "titulo":"casco-hawn",
+         "imagen":"./imagenes/casco1.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+    {
+        "id":"casco-celsius",
+        "titulo":"casco-celsius",
+         "imagen":"./imagenes/casco2.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-nzi",
+        "titulo":"casco-nzi",
+         "imagen":"./imagenes/casco3.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"casco-zeppelling",
+        "titulo":"casco-zeppelling",
+         "imagen":"./imagenes/casco4.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+    {
+        "id":"casco-walk",
+        "titulo":"casco-walk",
+         "imagen":"./imagenes/casco5.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-vertigo",
+        "titulo":"casco-vertigo",
+         "imagen":"./imagenes/casco6.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"casco-ls2",
+        "titulo":"casco-ls2",
+         "imagen":"./imagenes/casco7.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-bwron",
+        "titulo":"casco-bwron",
+         "imagen":"./imagenes/casco8.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-hj7",
+        "titulo":"casco-hj7",
+         "imagen":"./imagenes/casco9.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"casco-fst2",
+        "titulo":"casco-fst2",
+         "imagen":"./imagenes/casco10.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-zeppelling",
+        "titulo":"casco-zeppelling",
+         "imagen":"./imagenes/casco11.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-sprom",
+        "titulo":"casco-sprom",
+         "imagen":"./imagenes/casco12.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"casco-ventra",
+        "titulo":"casco-ventra",
+         "imagen":"./imagenes/casco13.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+    {
+        "id":"casco-pionner",
+        "titulo":"casco-pionner",
+         "imagen":"./imagenes/casco14.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    }, 
+
+
+    {
+        "id":"casco-honda",
+        "titulo":"casco-honda",
+         "imagen":"./imagenes/casco15.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"casco-kawa",
+        "titulo":"casco-kawa",
+         "imagen":"./imagenes/casco16.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"cascos",
+             "id":"cascos"
+         },
+         "precio":6000
+    },
+
+
+    {
+        "id":"guantes-biker",
+        "titulo":"guantes-biker",
+         "imagen":"./imagenes/guantes1.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+    {
+        "id":"guantes-fox",
+        "titulo":"guantes-fox",
+         "imagen":"./imagenes/guantes2.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-hawn",
+        "titulo":"guantes-hawn",
+         "imagen":"./imagenes/guantes3.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+
+    {
+        "id":"guantes-ryder",
+        "titulo":"guantes-ryder",
+         "imagen":"./imagenes/guantes4.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+    {
+        "id":"guantes-yamaha",
+        "titulo":"guantes-yamaha",
+         "imagen":"./imagenes/guantes5.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-racer",
+        "titulo":"guantes-racer",
+         "imagen":"./imagenes/guantes6.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+
+    {
+        "id":"guantes-neoprene",
+        "titulo":"guantes-neoprene",
+         "imagen":"./imagenes/guantes7.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-stream",
+        "titulo":"guantes-stream",
+         "imagen":"./imagenes/guantes8.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-biker-spy",
+        "titulo":"guantes-biker-spy",
+         "imagen":"./imagenes/guantes9.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+
+    {
+        "id":"guantes-gripp",
+        "titulo":"guantes-gripp",
+         "imagen":"./imagenes/guantes10.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-force",
+        "titulo":"guantes-force",
+         "imagen":"./imagenes/guantes11.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-slim",
+        "titulo":"guantes-slim",
+         "imagen":"./imagenes/guantes12.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+
+    {
+        "id":"guantes-spider",
+        "titulo":"guantes-spider",
+         "imagen":"./imagenes/guantes13.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+    {
+        "id":"guantes-mesch",
+        "titulo":"guantes-mesch",
+         "imagen":"./imagenes/guantes14.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+    {
+        "id":"guantes-round",
+        "titulo":"guantes-round",
+         "imagen":"./imagenes/guantes15.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    },
+
+
+    {
+        "id":"guantes-winter",
+        "titulo":"guantes-winter",
+         "imagen":"./imagenes/guantes16.jpeg",
+         "stock":10,
+         "categorias":{
+            "nombre":"guantes",
+             "id":"guantes"
+         },
+         "precio":1000
+    }, 
+
+
+
+
+
+
+        {
+            "id":"baul-ska",
+            "titulo":"baul-ska",
+             "imagen":"./imagenes/baul1.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+        {
+            "id":"baul-topcase",
+            "titulo":"baul-topcase",
+             "imagen":"./imagenes/baul2.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-motoscba",
+            "titulo":"baul-motoscba",
+             "imagen":"./imagenes/baul3.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+
+        {
+            "id":"baul-tork",
+            "titulo":"baul-tork",
+             "imagen":"./imagenes/baul4.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+        {
+            "id":"baul-cycles",
+            "titulo":"baul-cycles",
+             "imagen":"./imagenes/baul5.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-desmont",
+            "titulo":"baul-desmont",
+             "imagen":"./imagenes/baul6.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+
+        {
+            "id":"baul-reslpalder",
+            "titulo":"baul-respalder",
+             "imagen":"./imagenes/baul7.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-crimton",
+            "titulo":"baul-crimton",
+             "imagen":"./imagenes/baul8.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-power",
+            "titulo":"baul-power",
+             "imagen":"./imagenes/baul9.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+
+        {
+            "id":"baul-span",
+            "titulo":"baul-span",
+             "imagen":"./imagenes/baul10.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-fourport",
+            "titulo":"baul-1fourport",
+             "imagen":"./imagenes/baul11.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-streem",
+            "titulo":"baul-streem",
+             "imagen":"./imagenes/baul12.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+
+        {
+            "id":"baul-jk",
+            "titulo":"baul-jk",
+             "imagen":"./imagenes/baul4.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+        {
+            "id":"baul-torm",
+            "titulo":"baul-torm",
+             "imagen":"./imagenes/baul14.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }, 
+
+
+        {
+            "id":"baul-lemontwo",
+            "titulo":"baul-lemontwo",
+             "imagen":"./imagenes/baul15.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        },
+
+
+        {
+            "id":"baul-rays",
+            "titulo":"baul-rays",
+             "imagen":"./imagenes/baul16.jpeg",
+             "stock":10,
+             "categorias":{
+                "nombre":"baules",
+                 "id":"baules"
+             },
+             "precio":3000
+        }
+
+
+
+
+
+
+
+
+]
